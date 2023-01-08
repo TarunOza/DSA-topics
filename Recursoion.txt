@@ -1,0 +1,12 @@
+Recursion simply means that a function calls itself.if a function called itself it is direct recursion and when the function calls another function it is called as direct recursion.
+There are 3 steps in Recursion:-
+First step:-
+Decide the input variables wheather its one,two or more and which variable gonna change as the function is called.
+
+Second Step:-
+Declare the base case to control the output and avoid the stack overflow error.
+
+Third step:-
+Decide what to do.Here,we decide the arithematic operation and decide what should happen in next step and and call the function according to it.
+
+In recursion just decide what should change in next step and change the variable according to it dont think for the logic for the next variable just decide how the variable is variable is changing the call it in a same way.
